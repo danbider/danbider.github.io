@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Computational Neuroscience
+      institution: Columbia University
+      year: 2018-
     - course: MA in Cognitive Psychology
       institution: Tel Aviv University
       year: 2018
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: The Adi Lautman Interdisciplinary Program for Outsdanding Students
+      institution: Tel Aviv University
+      year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
