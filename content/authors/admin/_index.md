@@ -72,6 +72,7 @@ highlight_name: true
 
 I study probabilistic machine learning and its applications to neuroscience. I am a PhD student at the Center for Theoretical Neuroscience, advised by John Cunningham and working closely with Liam Paninski.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I work on precisely quantifying **animal movement from video** usind ideas from representation learning, computer vision, and mechanics. Inductive biases.
+I also work on **scalable Gaussian processes**.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
