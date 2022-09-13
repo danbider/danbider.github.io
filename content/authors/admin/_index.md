@@ -28,9 +28,9 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: MA in Cognitive Psychology
+      institution: Tel Aviv University
+      year: 2018
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
