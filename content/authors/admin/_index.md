@@ -6,11 +6,11 @@ title: Dan Biderman
 superuser: true
 
 # Role/position/tagline
-role: Computational Neuroscience PhD Student
+role: ML & Comp Neuro PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Columbia University
+  - name: Columbia University, Center for Theoretical Neuroscience
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
