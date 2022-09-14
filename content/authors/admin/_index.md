@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dan Biderman
+title: Dan A. Biderman
 
 # Is this the primary user of the site?
 superuser: true
