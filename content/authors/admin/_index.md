@@ -10,8 +10,8 @@ role: ML & Comp Neuro PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Columbia University, Center for Theoretical Neuroscience
-    url: https://www.stanford.edu/
+  - name: Center for Theoretical Neuroscience @ Columbia U
+    url: https://ctn.zuckermaninstitute.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
