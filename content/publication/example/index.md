@@ -1,17 +1,21 @@
 ---
-title: "Dan's conference paper"
+title: "Bias-Free Scalable Gaussian Processes via Randomized Truncations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Andres Potapczynski
+  - Luhuan Wu
   - admin
-  - Bla Bla
+  - Geoff Pleiss
+  - John P. Cunningham
 
 # Author notes (optional)
 author_notes:
-  - "Equal contribution"
-  - "Equal contribution"
+  - "Equal contribution, randomly ordered"
+  - "Equal contribution, randomly ordered"
+  - "Equal contribution, randomly ordered"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -26,8 +30,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *38th International Conference on Machine Learning (ICML 2021)*
+publication_short: In *ICML 2021*
 
 abstract: bla
 
