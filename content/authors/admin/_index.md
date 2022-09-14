@@ -14,7 +14,7 @@ organizations:
     url: https://ctn.zuckermaninstitute.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Building ML models that learn with limited data and limited compute. Using them to understand brain and behavior.
 
 # Interests to show in About widget
 interests:
