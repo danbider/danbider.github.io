@@ -29,7 +29,7 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Scalable Gaussian Process methods are computationally attractive, yet introduce modeling biases that require rigorous study. This paper analyzes two common techniques: early truncated conjugate gradients (CG) and random Fourier features (RFF). We ﬁnd that both methods introduce a systematic bias on the learned hyperparameters: CG tends to underﬁt while RFF tends to overﬁt. We address these issues using randomized truncation estimators that eliminate bias in exchange for increased variance. In the case of RFF, we show that the bias-to-variance conversion is indeed a trade-off: the additional variance proves detrimental to optimization. However, in the case of CG, our unbiased learning procedure meaningfully outperforms its biased counterpart with minimal additional computation. 
+abstract: bla
 
 # Summary. An optional shortened abstract.
 summary: proving systematic biases in scalable GPs; eliminating them using Russian-Roulette estimators.
