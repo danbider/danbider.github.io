@@ -41,8 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-- name: Talk
-  url: https://slideslive.com/38959632/biasfree-scalable-gaussian-processes-via-randomized-truncations?ref=search-presentations-biderman
+# - name: Talk
+#   url: https://slideslive.com/38959632/biasfree-scalable-gaussian-processes-via-randomized-truncations?ref=search-presentations-biderman
 
 url_pdf: ""
 url_code: ""
