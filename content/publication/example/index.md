@@ -53,7 +53,7 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "https://icml.cc/media/icml-2021/Slides/10577.pdf"
 url_source: ""
 url_video: "https://icml.cc/virtual/2021/poster/10577"
 
@@ -77,7 +77,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
