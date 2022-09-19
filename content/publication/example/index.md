@@ -36,7 +36,7 @@ publication_short: In *ICML 2021*
 abstract: bla
 
 # Summary. An optional shortened abstract.
-summary: proving systematic biases in scalable GPs; eliminating them using Russian-Roulette estimators.
+summary: Deriving systematic biases in scalable GPs; eliminating them using Russian-Roulette estimators.
 
 tags: []
 
@@ -48,7 +48,7 @@ featured: true
 # - name: Talk
 #   url: https://slideslive.com/38959632/
 
-url_pdf: ""
+url_pdf: "http://proceedings.mlr.press/v139/potapczynski21a.html"
 url_code: ""
 url_dataset: ""
 url_poster: ""
