@@ -49,7 +49,7 @@ featured: true
 #   url: https://slideslive.com/38959632/
 
 url_pdf: "http://proceedings.mlr.press/v139/potapczynski21a.html"
-url_code: ""
+url_code: "https://github.com/cunningham-lab/RTGPS"
 url_dataset: ""
 url_poster: ""
 url_project: ""
