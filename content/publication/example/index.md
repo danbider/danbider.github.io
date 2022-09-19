@@ -48,7 +48,7 @@ featured: true
 # - name: Talk
 #   url: https://slideslive.com/38959632/
 
-url_pdf: "http://proceedings.mlr.press/v139/potapczynski21a.html"
+url_pdf: "http://proceedings.mlr.press/v139/potapczynski21a/potapczynski21a.pdf"
 url_code: "https://github.com/cunningham-lab/RTGPS"
 url_dataset: ""
 url_poster: ""
