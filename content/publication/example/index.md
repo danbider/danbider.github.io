@@ -54,7 +54,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: "https://icml.cc/media/icml-2021/Slides/10577.pdf"
-url_source: ""
+url_source: "http://proceedings.mlr.press/v139/potapczynski21a.html"
 url_video: "https://icml.cc/virtual/2021/poster/10577"
 
 # Featured image
