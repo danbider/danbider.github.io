@@ -8,6 +8,11 @@ authors:
   - admin
   - Christian Naesseth
   - Luhuan Wu
+  - Taiga Abe
+  - Alice Mosberger
+  - Leslie Sibener
+  - Rui Costa
+  - James Murray
   - John P. Cunningham
 
 # Author notes (optional)
@@ -29,13 +34,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *38th International Conference on Machine Learning (ICML 2021)*
-publication_short: In *ICML 2021*
+publication: In *Neural Information Processing Systems Workshop on Differentiable Computer Vision, Graphics, and Physics in Machine Learning (NeurIPS DiffCVGP 2020; Oral)*
+publication_short: In *NeurIPS DiffCVGP 2020*
 
 abstract: bla
 
 # Summary. An optional shortened abstract.
-summary: Deriving systematic biases in scalable GPs; eliminating them using Russian-Roulette estimators.
+summary: Estimate pose using a CNN; Model pose as a rigid-body system; infer its angular dynamics AND the external torques acting on it using a new nested variant of VSMC.
 
 tags: []
 
@@ -47,14 +52,14 @@ featured: true
 # - name: Talk
 #   url: https://slideslive.com/38959632/
 
-url_pdf: "http://proceedings.mlr.press/v139/potapczynski21a/potapczynski21a.pdf"
-url_code: "https://github.com/cunningham-lab/RTGPS"
+url_pdf: "https://montrealrobotics.ca/diffcvgp/assets/papers/2.pdf"
+url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: "https://icml.cc/media/icml-2021/Slides/10577.pdf"
-url_source: "http://proceedings.mlr.press/v139/potapczynski21a.html"
-url_video: "https://icml.cc/virtual/2021/poster/10577"
+url_slides: ""
+url_source: ""
+url_video: "https://www.youtube.com/watch?v=-DWp84JkY3E"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
