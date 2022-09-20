@@ -31,7 +31,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *PLoS Computational Biology*
-publication_short: In *PLoS Comp. Biol.*
+publication_short: In *PLoS Comp. Biol*
 
 abstract: See paper.
 
@@ -48,14 +48,14 @@ featured: true
 # - name: Talk
 #   url: https://slideslive.com/38959632/
 
-url_pdf: "https://montrealrobotics.ca/diffcvgp/assets/papers/2.pdf"
+url_pdf: "psvae_paper.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
-url_video: "https://www.youtube.com/watch?v=-DWp84JkY3E"
+url_source: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009439"
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
