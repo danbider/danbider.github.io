@@ -37,7 +37,7 @@ publication_types: ["1"]
 publication: In *Neural Information Processing Systems Workshop on Differentiable Computer Vision, Graphics, and Physics in Machine Learning (NeurIPS DiffCVGP 2020; Oral)*
 publication_short: In *NeurIPS DiffCVGP 2020 (Oral)*
 
-abstract: bla.
+abstract: bla
 
 # Summary. An optional shortened abstract.
 summary: Estimate pose using a CNN; Model pose as a rigid-body system; infer its angular dynamics AND the external torques acting on it using a new nested variant of VSMC.
