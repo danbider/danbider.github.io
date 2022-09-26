@@ -78,4 +78,4 @@ I work on understanding animal movement from video using ideas from representati
 
 I also work on scaling Gaussian processes to massive, previously inaccessible, datasets.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
