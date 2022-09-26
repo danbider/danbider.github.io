@@ -20,6 +20,7 @@ bio: Building ML models that learn with limited data and limited compute. Using 
 interests:
   - Gaussian Processes
   - Representation Learning
+  - Simulation-based Inference
   - Computational Neuroscience of Motor Control
   - Neuroethology
 
@@ -71,9 +72,10 @@ email: dan.biderman@columbia.edu
 highlight_name: true
 ---
 
-I study probabilistic machine learning and its applications to neuroscience. I am a PhD student at the Center for Theoretical Neuroscience, advised by John Cunningham and working closely with Liam Paninski.
+I work on probabilistic machine learning for neuroscience. I am a PhD student at the Center for Theoretical Neuroscience, advised by John Cunningham and working closely with Liam Paninski.
 
-I work on precisely quantifying **animal movement from video** usind ideas from representation learning, computer vision, and mechanics. Inductive biases. I co-created lightning-pose, a library for semi-supervised pose estimation from videos.
-I work on **scalable Gaussian processes**, developing numerical methods to accelrate inference and learning with large datastes, while carefuly studying their statistical properties.
+I work on understanding **animal movement from video** using ideas from representation learning, computer vision, and physical simulation. I co-created and maintain [lightning-pose](https://github.com/danbider/lightning-pose), a library for semi-supervised pose estimation from videos.
+
+I also work on scaling Gaussian processes to massive, previously inaccessible, datasets.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
