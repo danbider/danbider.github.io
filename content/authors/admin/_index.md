@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: dan.biderman@columbia.edu
@@ -74,7 +74,7 @@ highlight_name: true
 
 I work on probabilistic machine learning for neuroscience. I am a PhD student at the Center for Theoretical Neuroscience, advised by John Cunningham and working closely with Liam Paninski.
 
-I work on understanding **animal movement from video** using ideas from representation learning, computer vision, and physical simulation. I co-created and maintain [lightning-pose](https://github.com/danbider/lightning-pose), a library for semi-supervised pose estimation from videos.
+I work on understanding animal movement from video using ideas from representation learning, computer vision, and physical simulation. I co-created and maintain [lightning-pose](https://github.com/danbider/lightning-pose), a library for semi-supervised pose estimation from videos.
 
 I also work on scaling Gaussian processes to massive, previously inaccessible, datasets.
 
