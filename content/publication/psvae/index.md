@@ -36,7 +36,7 @@ publication_short: In *PLoS Comp. Biol*
 abstract: See paper.
 
 # Summary. An optional shortened abstract.
-summary: Variational autoencoder whose latent space decomposes into two orthogonal subspaces: one unsupervised subspace and one supervised subspace linearly predictive of labels (keypoints). The latent space includes a context variable that predicts the video/subject identity.
+summary: Variational autoencoder whose latent space decomposes into two orthogonal subspaces; one unsupervised subspace and one supervised subspace linearly predictive of labels (keypoints). The latent space includes a context variable that predicts the video/subject identity.
 
 tags: []
 
