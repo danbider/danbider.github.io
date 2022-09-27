@@ -36,7 +36,7 @@ publication_short: In *PLoS Comp. Biol*
 abstract: See paper.
 
 # Summary. An optional shortened abstract.
-summary: This model disentangles movement that can be quantified by keypoints(e.g., limb position) from subtler behaviors like furr movement or face/eye expression. We introduce a novel VAE whose latent space decomposes into two orthogonal subspaces -- one unsupervised subspace and one supervised subspace linearly predictive of labels (keypoints). The latent space additionally includes a context variable that predicts the video/subject identity.
+summary: This model disentangles movement that can be quantified by keypoints (e.g., limb position) from subtler feature variations like orofacial movements. We introduce a novel VAE whose latent space decomposes into two orthogonal subspaces -- one unsupervised subspace and one supervised subspace linearly predictive of labels (keypoints). The latent space additionally includes a context variable that predicts the video/subject identity.
 
 tags: []
 
