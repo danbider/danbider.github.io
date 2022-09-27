@@ -79,5 +79,3 @@ I work on understanding animal movement from video using ideas from representati
 I also work on scaling Gaussian processes to massive, previously inaccessible, datasets.
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-Email me at: db3236 [at] columbia.edu
