@@ -6,11 +6,14 @@ widget: tag_cloud
 # This file represents a page section.
 headless: true
 
+# Activate this widget? true/false
+active: false
+
 # Order that this section appears on the page.
 weight: 120
 
 title: Popular Topics
-subtitle: ''
+subtitle: ""
 
 content:
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
