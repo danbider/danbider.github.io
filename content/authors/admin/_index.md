@@ -80,4 +80,4 @@ I also work on scaling Gaussian processes to massive, previously inaccessible, d
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-Email me at: db3236 <at> columbia.edu
+Email me at: db3236 [at] columbia.edu
