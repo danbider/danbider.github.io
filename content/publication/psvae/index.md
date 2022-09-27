@@ -36,7 +36,7 @@ publication_short: In *PLoS Comp. Biol*
 abstract: See paper.
 
 # Summary. An optional shortened abstract.
-summary: Estimate pose using a CNN; Model pose as a rigid-body system; infer its angular dynamics AND the external torques acting on it using a new nested variant of VSMC.
+summary: Variational autoencoder whose latent space decomposes into two orthogonal subspaces: one unsupervised subspace and one supervised subspace linearly predictive of labels (keypoints). The latent space includes a context variable that predicts the video/subject identity.
 
 tags: []
 
