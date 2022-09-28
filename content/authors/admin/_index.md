@@ -74,9 +74,10 @@ highlight_name: true
 
 I am a PhD candidate advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/).
 
-I focus on understanding biological movement from video using ideas from representation learning, 3D vision, and physical simulation. I co-created and maintain [lightning-pose](https://github.com/danbider/lightning-pose), a PyTorch Lightning library for semi-supervised pose estimation from videos.
+I focus on understanding biological movement from video using ideas from representation learning, 3D vision, and physical simulation. See for example our [NeurIPS, 2019](https://papers.nips.cc/paper/2019/hash/a10463df69e52e78372b724471434ec9-Abstract.html), [PLOS Comp. Biol., 2021](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009439), and [NeurIPS DiffCVGP, 2020](https://montrealrobotics.ca/diffcvgp/assets/papers/2.pdf).
+I co-created and maintain [lightning-pose](https://github.com/danbider/lightning-pose), a PyTorch Lightning library for semi-supervised pose estimation from videos.
 
-Gaussian Processes (GPs) are also a big part of my research. I develop scalable algorithms that allow GPs to be applied to massive, previously inaccessible datasets. I also work to expand our understanding of how these scalable algorithms work and what their biases are.
+Gaussian Processes (GPs) are also a big part of my research. I develop scalable algorithms that allow GPs to be applied to massive, previously inaccessible datasets. I also work to expand our understanding of how these scalable algorithms work and what their biases are. See for example our [ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf).
 
 The first [Lightning AI](https://lightning.ai/) DevCon (NYC, June 2022) featured an [interview with me](https://www.youtube.com/watch?v=FoKuzkZVnuk).
 
