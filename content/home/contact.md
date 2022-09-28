@@ -28,7 +28,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: db3236@columbia.edu
+  email: db3236@cumc.columbia.edu
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
