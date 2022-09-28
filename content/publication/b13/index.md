@@ -46,7 +46,7 @@ featured: false
 # - name: Talk
 #   url: https://slideslive.com/38959632/
 
-url_pdf: "/Biderman_Shir_Mudrik_PDF.pdf"
+url_pdf: "Biderman_Shir_Mudrik_PDF.pdf"
 url_code: "https://osf.io/7236z/"
 url_dataset: "https://osf.io/7236z/"
 url_poster: ""
