@@ -6,7 +6,7 @@ title: Dan Biderman
 superuser: true
 
 # Role/position/tagline
-role: ML & Comp Neuro PhD Student
+role: ML & Comp Neuro PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,7 +72,7 @@ email: dan.biderman@columbia.edu
 highlight_name: true
 ---
 
-I am a PhD student advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/).
+I am a PhD candidate advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/).
 
 I focus on understanding biological movement from video using ideas from representation learning, 3D vision, and physical simulation. I co-created and maintain [lightning-pose](https://github.com/danbider/lightning-pose), a PyTorch Lightning library for semi-supervised pose estimation from videos.
 
