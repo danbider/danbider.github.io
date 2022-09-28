@@ -72,10 +72,12 @@ email: dan.biderman@columbia.edu
 highlight_name: true
 ---
 
-I work on probabilistic machine learning for neuroscience. I am a PhD student at the Center for Theoretical Neuroscience, advised by John Cunningham and working closely with Liam Paninski.
+I am a PhD student advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/).
 
-I work on understanding animal movement from video using ideas from representation learning, computer vision, and physical simulation. I co-created and maintain [lightning-pose](https://github.com/danbider/lightning-pose), a library for semi-supervised pose estimation from videos.
+I focus on understanding biological movement from video using ideas from representation learning, 3D vision, and physical simulation. I co-created and maintain [lightning-pose](https://github.com/danbider/lightning-pose), a PyTorch Lightning library for semi-supervised pose estimation from videos.
 
-I also work on scaling Gaussian processes to massive, previously inaccessible, datasets.
+Gaussian Processes (GPs) are also a big part of my research. I develop scalable algorithms that allow GPs to be applied to massive, previously inaccessible datasets. I also work to expand our understanding of how these scalable algorithms work and what their biases are.
+
+The first [Lightning AI](https://lightning.ai/) DevCon (NYC, June 2022) featured an [interview with me](https://www.youtube.com/watch?v=FoKuzkZVnuk).
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
