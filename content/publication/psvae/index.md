@@ -48,7 +48,7 @@ featured: true
 # - name: Talk
 #   url: https://slideslive.com/38959632/
 
-url_pdf: "/psvae_paper.pdf"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""
