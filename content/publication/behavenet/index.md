@@ -51,8 +51,7 @@ publication_types: ["1"]
 publication: In *33rd Conference on Neural Information Processing Systems (NeurIPS 2019)*
 publication_short: In *NeurIPS 2019*
 
-abstract: A fundamental goal of systems neuroscience is to understand the relationship between neural activity and behavior. Behavior has traditionally been characterized by low-dimensional, task-related variables such as movement speed or response times. More recently, there has been a growing interest in automated analysis of high-dimensional video data collected during experiments. Here we introduce a probabilistic framework for the analysis of behavioral video and neural activity. This framework provides tools for compression, segmentation, generation, and decoding of behavioral videos. Compression is performed using a convolutional autoencoder (CAE), which yields a low-dimensional continuous representation of behavior. We then use an autoregressive hidden Markov model (ARHMM) to segment the CAE representation into discrete “behavioral syllables.” The resulting generative model can be used to simulate behavioral video data. Finally, based on this generative model, we develop a novel Bayesian decoding approach that takes in neural activity and outputs probabilistic estimates of the full-resolution behavioral video. We demonstrate this framework on two different experimental paradigms
-using distinct behavioral and neural recording technologies.
+abstract: See paper.
 
 # Summary. An optional shortened abstract.
 summary: Use autoencoders to learn latent representations of behavior in videos. Decode neural activity into behavior. Segment behavior into discrete behavioral syllables using AR-HMM.
