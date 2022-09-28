@@ -33,7 +33,7 @@ education:
     - course: MA in Cognitive Psychology
       institution: Tel Aviv University
       year: 2018
-    - course: The Adi Lautman Interdisciplinary Program for Outstanding Students
+    - course: The Adi Lautman Interdisciplinary Program for Outstanding Students (Cog. Sci., Math, Neurobio.)
       institution: Tel Aviv University
       year: 2013-2017
 
