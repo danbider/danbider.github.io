@@ -1,5 +1,5 @@
 ---
-title: "B or 13? Unconscious Top-Down Contextual Effects at the Categorical but Not the Lexical Level"
+title: "Contingent Capture Is Weakened in Search for Multiple Features From Different Dimensions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,7 +15,7 @@ author_notes:
   - "Equal contribution"
   - "Equal contribution"
 
-date: "2020-05-08T00:00:00Z"
+date: "2017-04-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,13 +28,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Psychological Science*
-publication_short: In *Psychological Science*
+publication: In *Journel of Experimental Psychology -- Human Perception and Performance*
+publication_short: In *JEP HPP*
 
-abstract: Contextual effects require integration of top-down predictions and bottom-up visual information. Given the widely assumed link between integration and consciousness, we asked whether contextual effects require consciousness. In two experiments (total N = 60), an ambiguous stimulus (which could be read as either B or 13) was presented alongside masked numbers (12 and 14) or letters (A and C). Context biased stimulus classification when it was consciously and unconsciously perceived. However, unconsciously perceived contexts evoked smaller effects. This finding was replicated and generalized into another language in a further experiment (N = 46) using a different set of stimuli, strengthening the claim that symbolic contextual effects can occur without awareness. Moreover, four experiments (total N = 160) suggested that these unconscious effects might be limited to the categorical level (numbers context vs. letters context) and do not extend to the lexical level (words context vs. nonwords context). Taken together, our results suggest that although consciousness may not be necessary for effects that require simple integration or none at all, it is nevertheless required for integration over larger semantic windows.
+abstract: Can observers maintain more than 1 attentional set and search for 2 features in parallel? Previous studiesthat relied on attentional capture by irrelevant distractors to answer this question focused on features from the same dimension and specifically, on color. They showed that 2 separate color templates can guide attention selectively and simultaneously. Here, the authors investigated attentional guidance by 2 features from different dimensions. In three spatial-cueing experiments, they compared contingent capture during single-set versus dual-set search. The results showed that attention was guided less efficiently by 2 features than by just 1. This impairment varied considerably across target-feature dimensions (color, size, shape and orientation). Confronted with previous studies, our findings suggest avenues for future research to determine whether impaired attentional guidance by multiple templates occurs only in cross-dimensional disjunctive search or also in within-dimension search. The present findings also showed that although performance improved when the target feature repeated on successive trials, a relevant-feature cue did not capture attention to a larger extent when its feature matched that of the previous target. These findings suggest that selection history cannot account for contingent capture and affects processes subsequent to target selection.
 
 # Summary. An optional shortened abstract.
-summary: Psychophysical presentation of ambiguous objects in context. Hierarchical Bayesian GLM and meta-analysis of subjects' judgments.
+summary: A series of visual-serach experiments asking people to search for multiple features in parallel while ignoring distractors. The pattern of people's attentional capture allowed us to characterize the cost of multi-tasking.
 
 tags: []
 
@@ -46,13 +46,13 @@ featured: false
 # - name: Talk
 #   url: https://slideslive.com/38959632/
 
-url_pdf: "/Biderman_Shir_Mudrik_PDF.pdf"
-url_code: "https://osf.io/7236z/"
-url_dataset: "https://osf.io/7236z/"
+url_pdf: ""
+url_code: ""
+url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://pubmed.ncbi.nlm.nih.gov/32384011/"
+url_source: "https://pubmed.ncbi.nlm.nih.gov/28425733/"
 url_video: ""
 
 # Featured image
