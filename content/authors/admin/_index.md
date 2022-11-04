@@ -79,6 +79,6 @@ I co-created and maintain [lightning-pose](https://github.com/danbider/lightning
 
 Gaussian Processes (GPs) are also a big part of my research. I develop scalable algorithms that allow GPs to be applied to massive, previously inaccessible datasets. I also work to expand our understanding of how these scalable algorithms work and what their biases are. See for example our [ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf).
 
-The first [Lightning AI](https://lightning.ai/) DevCon (NYC, June 2022) featured an [interview with me](https://www.youtube.com/watch?v=FoKuzkZVnuk).
+The first [Lightning AI](https://lightning.ai/) DevCon (NYC, June 2022) featured an [interview with me](https://www.youtube.com/watch?v=W-TyfNUABhw). I was recently selected as a Lightning Ambassador.
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
