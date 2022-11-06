@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: httpd://danbider.github.io/sitemap.xml
