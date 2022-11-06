@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Dan Biderman # Website name
-baseURL: https://danbider.github.io #"https://dan-biderman.netlify.app/" # 'https://example.com/' # Website URL
+baseURL: "https://danbider.github.io" #"https://dan-biderman.netlify.app/" # 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
