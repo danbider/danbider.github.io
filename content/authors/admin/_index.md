@@ -18,7 +18,7 @@ bio: Building ML models that learn with limited data and limited compute. Using 
 
 # Interests to show in About widget
 interests:
-  - Statistical ML: Gaussian Processes, state-space models, and more.
+  - Gaussian Processes and state-space models.
   - LLM robustness and efficiency.
   - Pose estimation and inverse control problems.
   - Computational Neuroscience and Neuroethology.
