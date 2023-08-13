@@ -18,11 +18,10 @@ bio: Building ML models that learn with limited data and limited compute. Using 
 
 # Interests to show in About widget
 interests:
-  - Gaussian Processes
-  - Representation Learning
-  - Simulation-based Inference
-  - Computational Neuroscience of Motor Control
-  - Neuroethology
+  - Statistical ML: Gaussian Processes, state-space models, and more.
+  - LLM robustness and efficiency.
+  - Pose estimation and inverse control problems.
+  - Computational Neuroscience and Neuroethology.
 
 # Education to show in About widget
 education:
@@ -30,7 +29,7 @@ education:
     - course: PhD in Computational Neuroscience
       institution: Columbia University
       year: 2018-
-    - course: MA in Cognitive Psychology
+    - course: MA in Cognitive Science
       institution: Tel Aviv University
       year: 2018
     - course: The Adi Lautman Interdisciplinary Program for Outstanding Students (Cog. Sci., Math, Neurobio.)
@@ -72,7 +71,7 @@ email: dan.biderman@columbia.edu
 highlight_name: true
 ---
 
-I am a PhD candidate advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/). I am currently interning at MosaicML/Databricks NLP research team.
+I am a PhD candidate advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/). I am currently interning at MosaicML/Databricks NLP research team, under [Jonathan Frankle](http://www.jfrankle.com/).
 
 I focus on understanding biological movement from video using ideas from representation learning, 3D vision, and physical simulation. See for example our [NeurIPS, 2019](https://papers.nips.cc/paper/2019/hash/a10463df69e52e78372b724471434ec9-Abstract.html), [PLOS Comp. Biol., 2021](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009439), and [NeurIPS DiffCVGP, 2020](https://montrealrobotics.ca/diffcvgp/assets/papers/2.pdf).
 I co-created and maintain [lightning-pose](https://github.com/danbider/lightning-pose), a PyTorch Lightning library for semi-supervised pose estimation from videos.
