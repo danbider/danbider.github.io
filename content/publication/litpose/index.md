@@ -46,9 +46,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-- name: NVIDIA TechBlog 
-  url: https://developer.nvidia.com/blog/research-unveils-breakthrough-deep-learning-tool-for-understanding-neural-activity-and-movement-control/
+links:
+  - name: NVIDIA TechBlog
+    url: https://developer.nvidia.com/blog/research-unveils-breakthrough-deep-learning-tool-for-understanding-neural-activity-and-movement-control/
 
 url_pdf: "https://www.biorxiv.org/content/10.1101/2023.04.28.538703v1.abstract"
 url_code: "https://github.com/danbider/lightning-pose"
