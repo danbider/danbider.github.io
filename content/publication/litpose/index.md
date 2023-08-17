@@ -38,7 +38,7 @@ publication_short: Under review
 abstract: bla
 
 # Summary. An optional shortened abstract.
-summary: an efficient semi-supervised pose estimation library that uses physically-informed inductive biases to improve generalization with fewer labels. Combines deep ensembles with state-space models for a more robust spatio-temporal consistency. Efficient software that builds on PyTorch Lightning and NVIDIA DALI.
+summary: Introduces a semi-supervised approach to pose estimation, using physically-informed inductive biases to improve generalization with fewer labels. Poses are further refined by combining deep ensembles with state-space models. Open-sourcing a deep learning system that is optimized for efficiency, building on PyTorch Lightning and NVIDIA DALI.
 
 tags: []
 
