@@ -73,11 +73,12 @@ highlight_name: true
 
 I am a final-year PhD candidate advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/). I am currently interning at MosaicML/Databricks NLP research team, under [Jonathan Frankle](http://www.jfrankle.com/).
 
-I focus on understanding biological movement from video using ideas from representation learning, 3D vision, and physical simulation. See for example our [NeurIPS, 2019](https://papers.nips.cc/paper/2019/hash/a10463df69e52e78372b724471434ec9-Abstract.html), [PLOS Comp. Biol., 2021](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009439), and [NeurIPS DiffCVGP, 2020](https://montrealrobotics.ca/diffcvgp/assets/papers/2.pdf).
-I co-created and maintain [lightning-pose](https://github.com/danbider/lightning-pose), a PyTorch Lightning library for semi-supervised pose estimation from videos.
+My work bridges statistical ML, deep learning systems, and computational neuroscience. One big piece of my PhD deals with understanding biological movement from video. I developed a semi-supervised pose estimation system called [lightning-pose](https://github.com/danbider/lightning-pose) ([bioRxiv, 2023; under review](https://www.biorxiv.org/content/10.1101/2023.04.28.538703v1)); I have also tackled this problem by drawing insights from representation learning ([NeurIPS, 2019](https://papers.nips.cc/paper/2019/hash/a10463df69e52e78372b724471434ec9-Abstract.html), [PLOS Comp. Biol., 2021](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009439)), 3D vision, and physical simulation ([NeurIPS DiffCVGP, 2020](https://montrealrobotics.ca/diffcvgp/assets/papers/2.pdf)).
 
-Gaussian Processes (GPs) are also a big part of my research. I develop scalable algorithms that allow GPs to be applied to massive, previously inaccessible datasets. I also work to expand our understanding of how these scalable algorithms work and what their biases are. See for example our [ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf).
+Gaussian Processes (GPs) and state-space models are also a big part of my research. I develop scalable algorithms that allow GPs to be applied to massive, previously inaccessible datasets. I also work to expand our understanding of how these scalable algorithms work and what their biases are ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)).
 
 Throughout my PhD, I collaborated closely with [Lightning AI](https://lightning.ai/), named [a Lightning Ambassador](https://lightning.ai/ambassador-program/), and a [featured developer in their first DevCon, June 2022](https://www.youtube.com/watch?v=W-TyfNUABhw).
+
+Lately, I've ventured into studying LLM efficiency and robustness, parameter-efficient finetuning methods, and code generation applications. Stay tuned for developments on this front.
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
