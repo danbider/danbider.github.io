@@ -12,7 +12,7 @@ role: ML & Comp Neuro PhD Candidate
 organizations:
   - name: Center for Theoretical Neuroscience @ Columbia U
     url: https://ctn.zuckermaninstitute.columbia.edu/
-  - name: MosaicML resarch team @ Databricks
+  - name: MosaicML research team @ Databricks
     url: https://www.mosaicml.com/
 
 # Short bio (displayed in user profile at end of posts)
