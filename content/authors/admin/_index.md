@@ -12,6 +12,8 @@ role: ML & Comp Neuro PhD Candidate
 organizations:
   - name: Center for Theoretical Neuroscience @ Columbia U
     url: https://ctn.zuckermaninstitute.columbia.edu/
+  - name: MosaicML resarch team @ Databricks
+    url: https://www.mosaicml.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Building ML models that learn with limited data and limited compute. Using them to understand brain and behavior.
@@ -19,7 +21,7 @@ bio: Building ML models that learn with limited data and limited compute. Using 
 # Interests to show in About widget
 interests:
   - Gaussian Processes and state-space models.
-  - LLM robustness and efficiency.
+  - LLM finetuning, evaluation, data curation, and codegen.
   - Pose estimation and inverse control problems.
   - Computational Neuroscience and Neuroethology.
 
@@ -71,14 +73,12 @@ email: dan.biderman@columbia.edu
 highlight_name: true
 ---
 
-I am a final-year PhD candidate advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/). I am currently interning at MosaicML/Databricks NLP research team, under [Jonathan Frankle](http://www.jfrankle.com/).
+I build resource-constrained machine learning (ML) systems for science -- in vision, timeseries, and text domains – fusing approaches from statistical ML and CS systems.
 
-My work bridges statistical ML, deep learning systems, and computational neuroscience. One big piece of my PhD deals with understanding biological movement from video. I developed a semi-supervised pose estimation system called [lightning-pose](https://github.com/danbider/lightning-pose) ([bioRxiv, 2023; under review](https://www.biorxiv.org/content/10.1101/2023.04.28.538703v1)); I have also tackled this problem by drawing insights from representation learning ([NeurIPS, 2019](https://papers.nips.cc/paper/2019/hash/a10463df69e52e78372b724471434ec9-Abstract.html), [PLOS Comp. Biol., 2021](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009439)), 3D vision, and physical simulation ([NeurIPS DiffCVGP, 2020](https://montrealrobotics.ca/diffcvgp/assets/papers/2.pdf)).
+I am currently a final-year PhD candidate advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/). I am also a part-time NLP researcher at MosaicML/Databricks, under [Jonathan Frankle](http://www.jfrankle.com/) working on LLM parameter-efficient finetuning, evaluation, and data, with an emphasis on code generation.
 
-Gaussian Processes (GPs) and state-space models are also a big part of my research. I develop scalable algorithms that allow GPs to be applied to massive, previously inaccessible datasets. I also work to expand our understanding of how these scalable algorithms work and what their biases are ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)).
+In my primary PhD work, I develop semi-supervised computer vision systems for tracking animals in videos, reducing the amount of labeled data needed for the task and improving generalization. Our package [lightning-pose](https://github.com/danbider/lightning-pose) ([bioRxiv, 2023; under review](https://www.biorxiv.org/content/10.1101/2023.04.28.538703v1)) is widely used in science and industry. I have also tackled this problem via probabilistic representation learning ([NeurIPS, 2019](https://papers.nips.cc/paper/2019/hash/a10463df69e52e78372b724471434ec9-Abstract.html), [PLOS Comp. Biol., 2021](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009439)), 3D vision, and physical simulation ([NeurIPS DiffCVGP, 2020](https://montrealrobotics.ca/diffcvgp/assets/papers/2.pdf)). In a second line of work, I focus on the computational efficiency and inductive biases of Gaussian processes ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)). My ongoing NLP work at MosaicML addresses questions of knowledge acquisition and extinction and its interaction with parameter-efficient finetuning methods (more soon!).
 
 Throughout my PhD, I collaborated closely with [Lightning AI](https://lightning.ai/), named [a Lightning Ambassador](https://lightning.ai/ambassador-program/), and a [featured developer in their first DevCon, June 2022](https://www.youtube.com/watch?v=W-TyfNUABhw).
-
-Lately, I've ventured into studying LLM efficiency and robustness, parameter-efficient finetuning methods, and code generation applications. Stay tuned for developments on this front.
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
