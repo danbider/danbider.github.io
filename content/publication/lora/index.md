@@ -16,12 +16,12 @@ authors:
   - Vitaliy Chiley
   - Jonathan Frankle
   - Cody Blakeney
-  - John P. Cunningham
+  - John P Cunningham
 
 # Author notes (optional)
-author_notes:
-  # - "Equal contribution"
-  # - "Equal contribution"
+# author_notes:
+#   # - "Equal contribution"
+#   # - "Equal contribution"
 
 date: "2024-05-15T00:00:00Z"
 doi: ""
