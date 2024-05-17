@@ -72,11 +72,9 @@ email: dan.biderman@columbia.edu
 highlight_name: true
 ---
 
-I build resource-efficient machine learning (ML) systems for science -- in vision, timeseries, and text domains – fusing approaches from statistical ML and CS systems.
-
 I am a final-year PhD candidate advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/). I am also a part-time NLP researcher at Databricks Mosaic AI after-training team.
 
-I work on resource-efficient ML systems for science -- in vision, timeseries, and text domains. Most notably, I worked on deep learning systems for tracking animal movement in videos - the [Lightning Pose](https://github.com/danbider/lightning-pose) package ([bioRxiv, 2023; In Press](https://www.biorxiv.org/content/10.1101/2023.04.28.538703v1)), scalability of Gaussian processes ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)), and learning-forgetting tradeoffs in LLM finetuning for math and code ([arXiv, 2024; Under Review](https://arxiv.org/abs/2405.09673))
+I build resource-efficient AI systems for science -- in vision, timeseries, and text domains, fusing approaches from statistical ML and CS systems. Most notably, I worked on deep learning systems for tracking animal movement in videos - the [Lightning Pose](https://github.com/danbider/lightning-pose) package ([bioRxiv, 2023; In Press](https://www.biorxiv.org/content/10.1101/2023.04.28.538703v1)), scalability of Gaussian processes ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)), and learning-forgetting tradeoffs in LLM finetuning for math and code ([arXiv, 2024; Under Review](https://arxiv.org/abs/2405.09673))
 
 Throughout my PhD, I collaborated closely with [Lightning AI](https://lightning.ai/), named [a Lightning Ambassador](https://lightning.ai/ambassador-program/), and a [featured developer in their first DevCon, June 2022](https://www.youtube.com/watch?v=W-TyfNUABhw).
 
