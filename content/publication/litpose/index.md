@@ -32,8 +32,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: bioRxiv preprint, 2023
-publication_short: Under review
+publication: Nature Methods, 2024
+publication_short:
 
 abstract: bla
 
@@ -50,7 +50,7 @@ links:
   - name: NVIDIA TechBlog
     url: https://developer.nvidia.com/blog/research-unveils-breakthrough-deep-learning-tool-for-understanding-neural-activity-and-movement-control/
 
-url_pdf: "https://www.biorxiv.org/content/10.1101/2023.04.28.538703v1.abstract"
+url_pdf: "https://rdcu.be/dLP3z"
 url_code: "https://github.com/danbider/lightning-pose"
 url_dataset: ""
 url_poster: ""
