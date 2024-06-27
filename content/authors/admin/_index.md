@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD in Computational Neuroscience
       institution: Columbia University
-      year: 2018-
+      year: 2018-2024
     - course: MA in Cognitive Science
       institution: Tel Aviv University
       year: 2018
