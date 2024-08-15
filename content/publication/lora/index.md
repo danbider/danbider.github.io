@@ -6,8 +6,8 @@ title: "LoRA Learns Less and Forgets Less"
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Dan Biderman
-  - Jose Gonzalez Ortiz
   - Jacob Portes
+  - Jose Gonzalez Ortiz
   - Mansheej Paul
   - Philip Greengard
   - Connor Jennings
@@ -36,10 +36,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv preprint, 2024
-publication_short: Under review
+publication: TMLR, 2024 (Featured Certification)
+publication_short:
 
-abstract: bla
+abstract:
 
 # Summary. An optional shortened abstract.
 summary: Compares LoRA versus full-parameter finetuning on challenging code and math tasks; sheds light on the learning-forgetting tradeoffs. Showing that LoRA usually underperforms full finetuning in a new target domain while forgetting less of the source domain.

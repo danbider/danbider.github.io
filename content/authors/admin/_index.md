@@ -72,11 +72,10 @@ email: dan.biderman@columbia.edu
 highlight_name: true
 ---
 
-As of June 2024, I graduated from a PhD at Columbia's Center for Theoretical Neuroscience, advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/).
-In the fall, I will be starting at Stanford University as a postdoc co-advised by [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/people/chrismre/).
-I am also an academic partner with Databricks Mosaic AI, where I previously interned.
+I am an incoming Postdoctoral Scholar at Stanford University, co-advised by [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/people/chrismre/). I am also an academic partner with Databricks Mosaic AI, where I previously interned.
+I recently graduated from a PhD at Columbia's Center for Theoretical Neuroscience, advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/).
 
-I build resource-efficient AI systems for science -- in vision, timeseries, and text domains, fusing approaches from statistical ML and CS systems. Most notably, I worked on deep learning systems for tracking animal movement in videos - the [Lightning Pose package](https://github.com/danbider/lightning-pose) ([Nature Methods, 2024](https://rdcu.be/dLP3z)), scalability of Gaussian processes ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)), and learning-forgetting tradeoffs in LLM finetuning for math and code generation ([arXiv, 2024; Revision Under Review](https://arxiv.org/abs/2405.09673))
+I build resource-efficient AI systems for science -- in vision, timeseries, and text domains, fusing approaches from statistical ML and CS systems. Most notably, I worked on deep learning systems for tracking animal movement in videos - the [Lightning Pose package](https://github.com/danbider/lightning-pose) ([Nature Methods, 2024](https://rdcu.be/dLP3z)), scalability of Gaussian processes ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)), and learning-forgetting tradeoffs in LLM finetuning for math and code generation ([TMLR, 2024 (_Featured Certification_)](https://openreview.net/forum?id=aloEru2qCG&noteId=Jb3PQNQDI2))
 
 Throughout my PhD, I collaborated closely with [Lightning AI](https://lightning.ai/), named [a Lightning Ambassador](https://lightning.ai/ambassador-program/), and a [featured developer in their first DevCon, June 2022](https://www.youtube.com/watch?v=W-TyfNUABhw).
 
