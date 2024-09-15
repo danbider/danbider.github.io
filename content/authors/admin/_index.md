@@ -6,20 +6,21 @@ title: Dan Biderman
 superuser: true
 
 # Role/position/tagline
-role: ML & Comp Neuro PhD Candidate
+role: Postdoctoral Scholar at Stanford Statistics & CS
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Center for Theoretical Neuroscience @ Columbia U
-    url: https://ctn.zuckermaninstitute.columbia.edu/
-  - name: MosaicML research team @ Databricks
-    url: https://www.databricks.com/research/mosaic
+  - name: Linderman Lab, Stanford Statistics
+    url: https://web.stanford.edu/~swl1/
+  - name: Hazy Research (Ré) Lab, Stanford CS
+    url: https://hazyresearch.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Building AI models that learn with limited data and limited compute. Using them to understand brain and behavior.
 
 # Interests to show in About widget
 interests:
+  - Hardware-aware approaches to numerical linear algebra and ML.
   - LLM finetuning, data, and evaluation.
   - Gaussian Processes and state-space models.
   - Pose estimation and inverse control problems.
@@ -72,7 +73,7 @@ email: dan.biderman@columbia.edu
 highlight_name: true
 ---
 
-I am an incoming Postdoctoral Scholar at Stanford University, co-advised by [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/people/chrismre/). I am also an academic partner with Databricks Mosaic AI, where I previously interned.
+I am a Postdoctoral Scholar at Stanford University, co-advised by [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/people/chrismre/). I am also an academic partner with Databricks Mosaic AI, where I previously interned.
 I recently graduated from a PhD at Columbia's Center for Theoretical Neuroscience, advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/).
 
 I build resource-efficient AI systems for science -- in vision, timeseries, and text domains, fusing approaches from statistical ML and CS systems. Most notably, I worked on deep learning systems for tracking animal movement in videos - the [Lightning Pose package](https://github.com/danbider/lightning-pose) ([Nature Methods, 2024](https://rdcu.be/dLP3z)), scalability of Gaussian processes ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)), and learning-forgetting tradeoffs in LLM finetuning for math and code generation ([TMLR, 2024 (_Featured Certification_)](https://openreview.net/forum?id=aloEru2qCG&noteId=Jb3PQNQDI2))
