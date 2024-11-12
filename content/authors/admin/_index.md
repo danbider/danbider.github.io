@@ -67,7 +67,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: dan.biderman@columbia.edu
+email: biderman@stanford.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
