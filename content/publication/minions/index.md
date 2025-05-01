@@ -1,5 +1,5 @@
 ---
-title: "LoRA Learns Less and Forgets Less"
+title: "Minions: Cost-efficient Collaboration Between On-device and Cloud Language Models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
