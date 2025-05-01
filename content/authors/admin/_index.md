@@ -20,10 +20,9 @@ bio: Building AI models that learn with limited data and limited compute. Using 
 
 # Interests to show in About widget
 interests:
+  - Efficient LLMs and multi-agent systems.
   - Hardware-aware approaches to numerical linear algebra and ML.
-  - LLM finetuning, data, and evaluation.
-  - Gaussian Processes and state-space models.
-  - Pose estimation and inverse control problems.
+  - Modeling and analysis of biological data.
 
 # Education to show in About widget
 education:
