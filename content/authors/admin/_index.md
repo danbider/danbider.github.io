@@ -73,7 +73,7 @@ email: biderman@stanford.edu
 highlight_name: true
 ---
 
-I am a Postdoctoral Scholar at Stanford University, co-advised by [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/people/chrismre/). I am also an academic partner with Databricks Mosaic AI, where I previously interned.
+I am a Postdoctoral Scholar at Stanford University, co-advised by [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/people/chrismre/).
 
 
 I build resource-efficient AI systems for science fusing approaches from statistical ML and CS systems. I work on two main themes currently.
@@ -81,6 +81,6 @@ In one, I design and try to understand collaboration patterns between language m
 In the other, I develop hardware-aware algorithms at the intersection of numerical linear algebra and ML (more on this soon!)
 
 I recently graduated from a PhD at Columbia's Center for Theoretical Neuroscience, advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/).
-During that time, I worked on deep learning systems for tracking animal movement in videos - the [Lightning Pose package](https://github.com/danbider/lightning-pose) ([Nature Methods, 2024](https://rdcu.be/dLP3z)), scalability of Gaussian processes ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)), and learning-forgetting tradeoffs in LLM finetuning ([TMLR, 2024 (_Featured Certification_)](https://openreview.net/forum?id=aloEru2qCG&noteId=Jb3PQNQDI2))
+During that time, I worked on deep learning systems for tracking animal movement in videos - the [Lightning Pose package](https://github.com/danbider/lightning-pose) ([Nature Methods, 2024](https://rdcu.be/dLP3z)), scalability of Gaussian processes ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)), and learning-forgetting tradeoffs in LLM finetuning ([TMLR, 2024 (_Featured Certification_)](https://openreview.net/forum?id=aloEru2qCG&noteId=Jb3PQNQDI2)). The latter work was done during my long internship at MosaicML / Databricks.
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
