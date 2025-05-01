@@ -76,11 +76,11 @@ highlight_name: true
 I am a Postdoctoral Scholar at Stanford University, co-advised by [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/people/chrismre/). I am also an academic partner with Databricks Mosaic AI, where I previously interned.
 
 
-I build resource-efficient AI systems for science fusing approaches from statistical ML and CS systems. My current focus is (1) designing and understanding collaboration patterns between language models of varying capabilties across heterogeneous hardware, and (2) developing hardware-aware algorithms at the intersection of numerical linear algebra and ML.
+I build resource-efficient AI systems for science fusing approaches from statistical ML and CS systems. I work on two main themes currently.
+In one, I design and try to understand collaboration patterns between language models of varying capabilties across heterogeneous hardware (see the [Minions](https://github.com/HazyResearch/minions) project).
+In the other, I develop hardware-aware algorithms at the intersection of numerical linear algebra and ML (more on this soon!)
 
 I recently graduated from a PhD at Columbia's Center for Theoretical Neuroscience, advised by [John Cunningham](https://stat.columbia.edu/~cunningham/) and working closely with [Liam Paninski](http://www.stat.columbia.edu/~liam/).
-During that time, I worked on deep learning systems for tracking animal movement in videos - the [Lightning Pose package](https://github.com/danbider/lightning-pose) ([Nature Methods, 2024](https://rdcu.be/dLP3z)), scalability of Gaussian processes ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)), and learning-forgetting tradeoffs in LLM finetuning for math and code generation ([TMLR, 2024 (_Featured Certification_)](https://openreview.net/forum?id=aloEru2qCG&noteId=Jb3PQNQDI2))
-
-Throughout my PhD, I collaborated closely with [Lightning AI](https://lightning.ai/), named [a Lightning Ambassador](https://lightning.ai/ambassador-program/), and a [featured developer in their first DevCon, June 2022](https://www.youtube.com/watch?v=W-TyfNUABhw).
+During that time, I worked on deep learning systems for tracking animal movement in videos - the [Lightning Pose package](https://github.com/danbider/lightning-pose) ([Nature Methods, 2024](https://rdcu.be/dLP3z)), scalability of Gaussian processes ([ICML, 2021](https://arxiv.org/pdf/2102.06695.pdf)), and learning-forgetting tradeoffs in LLM finetuning ([TMLR, 2024 (_Featured Certification_)](https://openreview.net/forum?id=aloEru2qCG&noteId=Jb3PQNQDI2))
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
