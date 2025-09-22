@@ -72,7 +72,7 @@ email: biderman@stanford.edu
 highlight_name: true
 ---
 
-I am a Postdoctoral Scholar at Stanford University, co-advised by [Scott Linderman](https://web.stanford.edu/~swl1/) and [Christopher Ré](https://cs.stanford.edu/people/chrismre/).
+I am a Stanford Postdoc co-advised by [Christopher Ré](https://cs.stanford.edu/people/chrismre/) and [Scott Linderman](https://web.stanford.edu/~swl1/).
 
 
 I build resource-efficient AI systems for science fusing approaches from statistical ML and CS systems. I work on two main themes currently.
