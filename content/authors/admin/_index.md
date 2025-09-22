@@ -80,8 +80,8 @@ My current focus is on building language models that dynamically learn from expe
 
 I co-organize the workshop on [Efficient Systems for Foundation Models](https://es-fomo.com/) (most recently at ICML, 2025). 
 
-I graduated from a PhD at Columbia's Center for Theoretical Neuroscience, where I worked with [John Cunningham](https://stat.columbia.edu/~cunningham/) and [Liam Paninski](http://www.stat.columbia.edu/~liam/). I won Columbia's Titus M Cowan dissertation prize in biomedical research, and served as the student speaker in the 2025 PhD hooding ceremony.
-In my main PhD project, I built deep learning models for tracking animal movement in videos - the [Lightning Pose package](https://github.com/danbider/lightning-pose) ([Nature Methods, 2024](https://rdcu.be/dLP3z)).
+I graduated from a PhD at Columbia's Center for Theoretical Neuroscience, where I worked with [John Cunningham](https://stat.columbia.edu/~cunningham/) and [Liam Paninski](http://www.stat.columbia.edu/~liam/).
+In my main PhD project, I built deep learning models for tracking animal movement in videos - the [Lightning Pose package](https://github.com/danbider/lightning-pose) ([Nature Methods, 2024](https://rdcu.be/dLP3z)). I won Columbia's Titus M Cowan dissertation prize in biomedical research, and served as the student speaker in the 2025 PhD hooding ceremony.
 
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
